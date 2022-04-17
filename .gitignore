@@ -1,1 +1,8 @@
 readme.txt
+.DS_Store
+.idea/
+.idea/*
+.vscode
+*.sublime*
+node_modules/
+npm-debug.*
